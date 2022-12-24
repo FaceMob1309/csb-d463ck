@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://facemob1309.github.io/csb-d463ck/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://facemob1309.github.io/csb-d463ck/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://facemob1309.github.io/csb-d463ck/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://facemob1309.github.io/csb-d463ck/static/js/runtime-main.742f13dd.js",
+    "runtime-main.js.map": "https://facemob1309.github.io/csb-d463ck/static/js/runtime-main.742f13dd.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://facemob1309.github.io/csb-d463ck/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://facemob1309.github.io/csb-d463ck/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://facemob1309.github.io/csb-d463ck/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://facemob1309.github.io/csb-d463ck/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://facemob1309.github.io/csb-d463ck/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742f13dd.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
